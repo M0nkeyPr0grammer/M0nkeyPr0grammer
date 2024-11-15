@@ -1,20 +1,20 @@
 ## Hi there 👋  
 I am a dedicated software engineer and modpack developer with a passion for crafting creative solutions. My expertise lies in **JavaScript** and **Java**, with a focus on delivering high-quality projects.
 
-[![M0nkeyPr0grammer's Stats](https://github-readme-stats.vercel.app/api?username=M0nkeyPr0grammer&include_all_commits=true)](https://github-readme-stats.vercel.app/api?username=M0nkeyPr0grammer&include_all_commits=true)
+[![M0nkeyPr0grammer's Stats](https://github-readme-stats.vercel.app/api?username=M0nkeyPr0grammer&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=chartreuse-dark)](https://github-readme-stats.vercel.app/api?username=M0nkeyPr0grammer&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=chartreuse-dark)
 
-[![M0nkeyPr0grammer's Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M0nkeyPr0grammer&layout=donut)](https://github-readme-stats.vercel.app/api/top-langs/?username=M0nkeyPr0grammer&layout=donut)
+[![M0nkeyPr0grammer's Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M0nkeyPr0grammer&layout=pie&theme=chartreuse-dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=M0nkeyPr0grammer&layout=pie&theme=chartreuse-dark)
 
 ---
 
 ## My Two Main Projects  
 
 ### Create - Forge Frontier  
-[![Create - Forge Frontier](https://github-readme-stats.vercel.app/api/pin?username=M0nkeyPr0grammer&repo=Create-Forge-Frontier)](https://github.com/M0nkeyPr0grammer/Create-Forge-Frontier) 
+[![Create - Forge Frontier](https://github-readme-stats.vercel.app/api/pin?username=M0nkeyPr0grammer&repo=Create-Forge-Frontier&theme=chartreuse-dark)](https://github.com/M0nkeyPr0grammer/Create-Forge-Frontier) 
 #### A comprehensive modpack designed for Minecraft enthusiasts who love automating with the Create mod. Forge Frontier brings unique challenges and adventures to elevate your gameplay.
 
 ### Landscapes Reimagined - Genesis  
-[![Landscapes Reimagined - Genesis](https://github-readme-stats.vercel.app/api/pin?username=M0nkeyPr0grammer&repo=Landscapes-Reimagined-Genesis)](https://github.com/M0nkeyPr0grammer/Landscapes-Reimagined-Genesis)
+[![Landscapes Reimagined - Genesis](https://github-readme-stats.vercel.app/api/pin?username=M0nkeyPr0grammer&repo=Landscapes-Reimagined-Genesis&theme=chartreuse-dark)](https://github.com/M0nkeyPr0grammer/Landscapes-Reimagined-Genesis)
 #### Explore stunning, immersive environments in this modpack that redefines the landscapes of Minecraft while adding deep, engaging gameplay elements.  
 
 ---  
