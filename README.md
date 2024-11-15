@@ -5,9 +5,9 @@ I am a passionate software engineer and modpack developer. I mostly work with ja
 
 [![M0nkeyPr0grammer's Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M0nkeyPr0grammer&layout=donut)](https://github-readme-stats.vercel.app/api/top-langs/?username=M0nkeyPr0grammer&layout=donut)
 ## My Two Main Projects
-[![Create - Forge Frontier](https://github-readme-stats.vercel.app/api/pin?username=M0nkeyPr0grammer&repo=Create-Forge-Frontier)](https://github-readme-stats.vercel.app/api/pin?username=M0nkeyPr0grammer&repo=Create-Forge-Frontier)
+[![Create - Forge Frontier](https://github-readme-stats.vercel.app/api/pin?username=M0nkeyPr0grammer&repo=Create-Forge-Frontier)](https://github.com/M0nkeyPr0grammer/Create-Forge-Frontier)
 
-[![Landscapes Reimagined - Genesis](https://github-readme-stats.vercel.app/api/pin?username=M0nkeyPr0grammer&repo=Landscapes-Reimagined-Genesis)](https://github-readme-stats.vercel.app/api/pin?username=M0nkeyPr0grammer&repo=Landscapes-Reimagined-Genesis)
+[![Landscapes Reimagined - Genesis](https://github-readme-stats.vercel.app/api/pin?username=M0nkeyPr0grammer&repo=Landscapes-Reimagined-Genesis)](https://github.com/M0nkeyPr0grammer/Landscapes-Reimagined-Genesis)
 <!--
 **M0nkeyPr0grammer/M0nkeyPr0grammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
