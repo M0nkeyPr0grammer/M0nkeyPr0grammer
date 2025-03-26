@@ -16,4 +16,4 @@ jobs:
     steps:
       - uses: M0nkeyPr0grammer/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ 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}}
