@@ -6,7 +6,7 @@ I am a dedicated software engineer and modpack developer with a passion for craf
   
   ![Repos Badge](https://badges.strrl.dev/repos/M0nkeyPr0grammer) ![Commits Badge](https://badges.strrl.dev/commits/all/M0nkeyPr0grammer) ![Contributions Badge](https://badges.strrl.dev/contributions/all/M0nkeyPr0grammer) ![Years Badge](https://badges.strrl.dev/years/M0nkeyPr0grammer)
 
-  ![Metrics](/github-metrics.svg)
+  ![Metrics](./github-metrics.svg)
 </div>
 ---
 
