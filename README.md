@@ -1,10 +1,13 @@
 ## Hi there 👋  
 I am a dedicated software engineer and modpack developer with a passion for crafting creative solutions. My expertise lies in **JavaScript** and **Java**, with a focus on delivering high-quality projects.
 
-[![M0nkeyPr0grammer's Stats](https://github-readme-stats.vercel.app/api?username=M0nkeyPr0grammer&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=chartreuse-dark)](https://github-readme-stats.vercel.app/api?username=M0nkeyPr0grammer&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=chartreuse-dark)
+<div align="center">
+  <h2>📊 Statistics</h2>
+  
+  ![Repos Badge](https://badges.strrl.dev/repos/M0nkeyPr0grammer) ![Commits Badge](https://badges.strrl.dev/commits/all/M0nkeyPr0grammer) ![Contributions Badge](https://badges.strrl.dev/contributions/all/M0nkeyPr0grammer) ![Years Badge](https://badges.strrl.dev/years/M0nkeyPr0grammer)
 
-[![M0nkeyPr0grammer's Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M0nkeyPr0grammer&layout=pie&theme=chartreuse-dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=M0nkeyPr0grammer&layout=pie&theme=chartreuse-dark)
-
+  ![Metrics](./github-metrics.svg)
+</div>
 ---
 
 ## My Two Main Projects  
