@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1412" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1062" class="">
     <defs>
         <style/>
     </defs>
@@ -31,13 +31,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -289,7 +289,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~2.95
+                            Average per day at ~2.93
                         </div>
                     </section>
                 </div>
@@ -1277,6 +1277,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1297,91 +1302,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 66 commits in
-                                        <span class="repo">M0nkeyPr0grammer/All-the-mods-10-Sky</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">Landscapes-Reimagined/Create-Forge-Frontier</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">v2.5.0</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9f0838f</div>
-                                        <div class="message">fix: F&amp;A armor quest info fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f4ee7d</div>
-                                        <div class="message">feat: bee reward table</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fadb0af</div>
-                                        <div class="message">feat: bee lang</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e65932</div>
-                                        <div class="message">feat: port bee quests from ATM 10</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ff2b696</div>
-                                        <div class="message">fix:remove bloat, added white for MI chapter names</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3cab880</div>
-                                        <div class="message">Delete config/ftbquests/quests/lang/en_us/chapters/rust_free_and_oiled.snbt</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#95fcb80</div>
-                                        <div class="message">Delete config/ftbquests/quests/lang/en_us/chapters/steam_age.snbt</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9533a00</div>
-                                        <div class="message">Delete config/ftbquests/quests/lang/en_us/chapters/the_electric_age.snbt</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#01f7121</div>
-                                        <div class="message">MI quest images</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f1cf9cb</div>
-                                        <div class="message">mi reward tables</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#44f0acc</div>
-                                        <div class="message">lang files MI quests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#81ca27d</div>
-                                        <div class="message">mi quest files</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2fb9517</div>
-                                        <div class="message">Delete config/ftbquests/quests/chapters/steam_age.snbt</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9ca09bb</div>
-                                        <div class="message">Delete config/ftbquests/quests/chapters/the_nuclear_age.snbt</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8f269d0</div>
-                                        <div class="message">Delete config/ftbquests/quests/chapters/the_electric_age.snbt</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f2004d</div>
-                                        <div class="message">Delete config/ftbquests/quests/chapters/rust_free_and_oiled.snbt</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#080d846</div>
-                                        <div class="message">Delete config/ftbquests/quests/chapters/age_of_oil.snbt</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d6f21f</div>
-                                        <div class="message">chapter group updated</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6882bb4</div>
-                                        <div class="message">lang file</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec67e99</div>
-                                        <div class="message">quest file</div>
+                                        <div class="sha">#84ae561</div>
+                                        <div class="message">Removes new OP Bone block recipe added it Create Additions and Synthetics update</div>
                                     </div>
                                 </div>
                             </section>
@@ -1400,56 +1329,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">v2.5.0</span></div>
                                     <div class="commit">
-                                        <div class="sha">#31523f7</div>
-                                        <div class="message">Update 2.5.0_Changelog.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Landscapes-Reimagined/Create-Forge-Frontier</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">v2.5.0</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e28b406</div>
-                                        <div class="message">Removed "Crafting" stuff from Pretty Pipes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9df2660</div>
-                                        <div class="message">Add all new mods to Carryon Blacklist</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Landscapes-Reimagined/Create-Forge-Frontier</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">v2.5.0</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7165fd6</div>
-                                        <div class="message">New Apotheosis Gem tag</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4763e26</div>
-                                        <div class="message">Update Dyl's Username for Rewrite Beta Reward</div>
+                                        <div class="sha">#06f15ce</div>
+                                        <div class="message">Mod Updates</div>
                                     </div>
                                 </div>
                             </section>
@@ -1468,8 +1349,48 @@
                                 <div class="details">
                                     <div>on branch <span class="code">v2.5.0</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a8b81ef</div>
-                                        <div class="message">Update 2.5.0_Mod_Updates.md</div>
+                                        <div class="sha">#6fd3b06</div>
+                                        <div class="message">Revert Mod Update due to log spam</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Landscapes-Reimagined/Create-Forge-Frontier</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">v2.5.0</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#916e01c</div>
+                                        <div class="message">Clean up the ocean of Oil Spills from Ad Astra</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Landscapes-Reimagined/Create-Forge-Frontier</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">v2.5.0</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a61b805</div>
+                                        <div class="message">Removed Excess Recipes to remove confusion from JEI</div>
                                     </div>
                                 </div>
                             </section>
@@ -1479,7 +1400,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Sept 2025, 00:58:20  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Sept 2025, 00:57:13  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
