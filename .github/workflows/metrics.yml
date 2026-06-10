@@ -44,6 +44,7 @@ jobs:
           plugin_lines: yes
 
           plugin_achievements: no
+          plugin_repositories_affiliations: organization_member, owner, collaborator
           plugin_gists: no
           plugin_people: no
           plugin_projects: no
