@@ -43,10 +43,9 @@ jobs:
           plugin_languages_threshold: 0%
 
           plugin_lines: yes
-          plugin_lines_sections: base
+          plugin_lines_sections: repositories, history
 
           plugin_achievements: no
-          plugin_repositories_affiliations: organization_member, owner, collaborator
           plugin_gists: no
           plugin_people: no
           plugin_projects: no
